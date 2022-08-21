@@ -8,6 +8,7 @@ donkeyPad 是一个15键的机械键盘, 一键代替普通键盘的组合键或
 这款键盘的原作者是dekuNukem,采用MIT开源许可，但中文资料是空白, 这个版本库用于补充相关中文资料。dapengLab出品的duckyPad硬件有所改动, 软件与原版保持兼容。
 
 ![title](resources/title.jpg)
+[观看视频](https://www.bilibili.com/video/BV1oT411c7eF/?vd_source=b0f1056506f178721b3a08c4c4aa597e)
 
 duckyPad 采用时尚的设计，具有所有高端机械键盘的优点:
 
@@ -60,5 +61,6 @@ duckyPad 有一块OLED屏，可以显示当前的页，每一个按键的功能�
 ### duckyScript
 
 duckyPad 使用 [duckyScript](duckyscript_info.md)来编程，使用很简单的，但功能可以很强大。
+
 
 
