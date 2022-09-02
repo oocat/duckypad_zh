@@ -2,6 +2,6 @@ WINDOWS r
 
 DELAY 600
 
-STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://github.com/oocat/duckypad_zh
 
 ENTER
